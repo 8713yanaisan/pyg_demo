@@ -3,5 +3,4 @@ plotly
 streamlit
 xlrd
 pygwalker
-optional_dependency
 openpyxl
